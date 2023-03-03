@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrendNewsApp</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="dni">Dni</string>
+    <string name="repetir_contraseña">Repetir Contraseña</string>
+    <string name="contraseña">Contraseña</string>
+</resources>
